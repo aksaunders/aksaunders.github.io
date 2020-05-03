@@ -215,7 +215,7 @@ section{
 .minz-links {
   float: right;
   margin: 0;
-  width: 40%;
+  width: 50%;
   height: 100%;
   display: flex;
   justify-content: space-around;
@@ -226,8 +226,8 @@ section{
 }
 .minz-links li a {
   display: block;
-  padding: 1rem;
-  font-size: 1rem;
+  padding: 1rem 0.5rem;
+  font-size: .875rem;
   font-weight: 600;
   color: var(--dark);
   text-decoration: none;
